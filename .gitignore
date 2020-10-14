@@ -1,0 +1,10 @@
+/node_modules
+
+*.log
+*.gz
+
+coverage
+
+.DS_Store*
+
+*.sqlite
